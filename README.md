@@ -7,3 +7,6 @@ I wrote this script before and it needs to be rewritten entirely for blender 5.0
 DOCUMENTATION
 Create your world in blender then add empties (with names 1, 2, 3, 4 etc.) snapped directly to the floor corresponding to where you want your travel nodes.
 The script will render all the images for you ready to use in Pipmak engine.
+
+LINK TO PIPMAK
+https://sourceforge.net/projects/pipmak/
